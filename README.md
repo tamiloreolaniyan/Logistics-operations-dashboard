@@ -1,2 +1,2 @@
 # Logistics-operations-dashboard
-Power BI dashboard analyzing 85,000+ delivery trips across 14 data tables
+End-to-end Power BI logistics analytics project analyzing 85,000+ delivery trips, fleet performance, revenue, and operational KPIs.
